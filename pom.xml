@@ -28,6 +28,7 @@
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 
+<!--		DevTools stands for Developer Tool. The aim of the module is to try and improve the development time while working with the Spring Boot application. Spring Boot DevTools pick up the changes and restart the application. We can implement the DevTools in our project by adding the following dependency in the pom. xml file.-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
