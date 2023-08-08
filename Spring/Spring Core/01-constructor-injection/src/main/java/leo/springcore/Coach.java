@@ -1,2 +1,5 @@
-package leo.springcore;public interface Coach {
+package leo.springcore;
+
+public interface Coach {
+    String getDailyWorkout();
 }
